@@ -7,14 +7,18 @@ main()
 {
 	init();
 	
-	setbkcolor(WHITE);
+	setbkcolor(BLACK);
 	cleardevice();
-
+	settextstyle(2,HORIZ_DIR,6);
+	outtextxy(getmaxx()/2 - 60, getmaxy()/2 - 150, "Heiwa To Shinpo");
+	
+	
+	setfillstyle(SOLID_FILL, WHITE);
+	bar(getmaxx()/2 - 150, getmaxy()/2 - 100, getmaxx()/2 + 150, getmaxy()/2 + 100);
+	 
 	setcolor(RED);
     circle(getmaxx() / 2, getmaxy() / 2,50);
     setfillstyle(SOLID_FILL,RED);
-    
-    
     //Change RED to WHITE.
     floodfill(getmaxx() / 2, getmaxy() / 2,RED);
     

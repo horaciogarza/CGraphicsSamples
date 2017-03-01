@@ -7,6 +7,10 @@ main()
 {
 	init();
 	
+
+    
+
+    
     setbkcolor(WHITE);
     
     //Change RED to WHITE.
