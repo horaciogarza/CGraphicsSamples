@@ -10,6 +10,7 @@ Instrucciones de Instalación:
   <li>Project > Project Options > Parameters > *Copiar en Linker, lo que esté dentro de Linker.txt de la carpeta instrucciones* > Aceptar</li>
   <li>Repetir paso 5 (sin copiar)</li>
 </ol>
+¿Díficil? <a href="https://youtu.be/BdRlwJ5As24">Aquí el video</a>
 
 <h4>Preguntas/Errores Frecuentes</h4>
 <ul>
