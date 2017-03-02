@@ -26,3 +26,4 @@ Instrucciones de Instalación:
   
 </ul>
 <h4><a href="https://www.cs.colorado.edu/~main/bgi/doc/">Documentación Oficial de <i>graphics.h</i></a></h4>
+<h4><a href="https://svwh.dl.sourceforge.net/project/orwelldevcpp/Portable%20Releases/Dev-Cpp%205.3.0.3%20MinGW%204.7.0%20Portable.7z">Descarga de Dev-C++ 5.3.0</a></h4>
