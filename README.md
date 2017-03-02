@@ -25,3 +25,4 @@ Instrucciones de Instalación:
   
   
 </ul>
+<h4><a href="https://www.cs.colorado.edu/~main/bgi/doc/">Documentación Oficial de <i>graphics.h</i></a></h4>
